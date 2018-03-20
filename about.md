@@ -33,5 +33,3 @@ published: true
 7. Канал [Keenetic_ru](https://t.me/Keenetic_ru) в Telegram.
 
 Удачи в начинаниях!
-
-Александр Рыжов
