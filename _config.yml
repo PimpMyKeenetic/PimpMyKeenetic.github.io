@@ -1,0 +1,22 @@
+title: Pimp My Keenetic
+tagline: Стартуй! Прокачай!
+description: 'Использование роутера за пределами веб-интерфейса, в т.ч. вместе с ПО из репозитория <a href="http://entware.net" target="_blank">Entware</a>.'
+google_analytics: 
+remote_theme: fongandrew/hydeout
+
+author:
+  name: 'Alexander Ryzhov'
+  url: https://github.com/ryzhovau
+
+paginate: 4
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+
+sidebar_home_link: true
+
+#github:
+#  repo: https://github.com/PimpMyKeenetic/PimpMyKeenetic.github.io
