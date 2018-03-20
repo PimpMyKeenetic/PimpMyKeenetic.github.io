@@ -26,9 +26,9 @@ published: true
 
 1. [Форум Keenetic Community](https://forum.keenetic.net/),
 2. [Документация](http://files.keenopt.ru/cli_manual/) по командной строке для новых прошивок,
-3. [Центр подддержки](https://help.keenetic.net/hc/ru) с отличной базой знаний, преобразившийся за последнее время,
+3. [Центр поддержки](https://help.keenetic.net/hc/ru) с отличной базой знаний, 
 4. [Форум Entware](http://forums.zyxmon.org/viewforum.php?f=5) в качестве шпаргалки по опробованным решениям,
-5. [Wiki](https://bitbucket.org/padavan/rt-n56u/wiki/browse/RU) и [набор How-To](https://github.com/DontBeAPadavan/) по Padavan'овской прошивке, так же написанные мной ранее для собственных нужд,
+5. [Wiki](https://bitbucket.org/padavan/rt-n56u/wiki/browse/RU) и [набор How-To](https://github.com/DontBeAPadavan/) по Padavan'овской прошивке, так же написанные мной,
 6. [Профильная ветка](http://forum.ixbt.com/topic.cgi?id=14:64474) Конференции iXBT,
 7. Канал [Keenetic_ru](https://t.me/Keenetic_ru) в Telegram.
 
