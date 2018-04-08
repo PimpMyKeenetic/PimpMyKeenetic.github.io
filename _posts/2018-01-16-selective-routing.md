@@ -73,6 +73,8 @@ if [ -z "$(ip route list table 1)" ]; then
     ip rule add fwmark 1 table 1
     ip route add default dev ovpn_br0 table 1
 fi
+
+exit0
 ```
 Второй, `/opt/etc/ndm/netfilter.d/100-fwmarks.sh`:
 ```
@@ -83,6 +85,8 @@ fi
 
 [ -z "$(iptables-save | grep rublock)" ] && \
     iptables -w -A PREROUTING -t mangle -m set --match-set rublock dst,src -j MARK --set-mark 1
+
+exit 0
 ```
 и не забудьте сделать их исполняемыми:
 ```
