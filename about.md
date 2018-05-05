@@ -30,6 +30,6 @@ published: true
 4. [Форум Entware](http://forums.zyxmon.org/viewforum.php?f=5) в качестве шпаргалки по опробованным решениям,
 5. [Wiki](https://bitbucket.org/padavan/rt-n56u/wiki/browse/RU) и [набор How-To](https://github.com/DontBeAPadavan/) по Padavan'овской прошивке, так же написанные мной,
 6. [Профильная ветка](http://forum.ixbt.com/topic.cgi?id=14:64474) Конференции iXBT,
-7. Канал [Keenetic_ru](https://t.me/Keenetic_ru) в Telegram.
+7. Каналы [Keenetic_ru](https://t.me/Keenetic_ru) и [Entware](https://t.me/Entware) в Telegram.
 
 Удачи в начинаниях!
