@@ -127,6 +127,7 @@ W [Jan 22 09:26:09] bird4: Kernel dropped some netlink messages, will resync on 
 ip route list table 1000
 ```
 
+* Убедитесь, что нужная таблица маршрутизации (1000) участвует в маршрутизации и мелькает в выводе `ip rule list`.
 
 ### Детали по потребляемым ресурсам
 
