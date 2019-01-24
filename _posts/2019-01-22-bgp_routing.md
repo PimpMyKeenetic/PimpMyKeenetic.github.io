@@ -25,7 +25,7 @@ title: Обход блокировок с использованием BGP
 
 Установите bird:
 ```
-opkg bird1-ipv4
+opkg install bird1-ipv4
 ```
 Замените файл конфигурации `/opt/etc/bird4.conf` содержимым:
 ```
