@@ -41,7 +41,6 @@ min-port=4096
 cache-size=1536
 domain=lan
 expand-hosts
-log-facility=/dev/null
 log-async
 
 ### Using Yandex Safe DNS as default resolver
