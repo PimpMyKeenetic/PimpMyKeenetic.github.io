@@ -73,7 +73,7 @@ protocol bgp antifilter {
     };
     export none;
     local as 64999; # local default as-number
-    neighbor 192.3.134.152 as 65432;
+    neighbor 163.172.210.8 as 65432;
     multihop;
     hold time 240;
 }
