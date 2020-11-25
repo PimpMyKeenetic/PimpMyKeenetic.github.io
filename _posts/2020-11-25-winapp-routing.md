@@ -107,6 +107,6 @@ iptables-save | grep dscp
 
 ### Использованные источники
 
-    1) [Управление QoS на платформе Windows](https://www.atraining.ru/qos-windows-nt/),
-    2) [How to Set the DSCP Flag in Windows and Linux](https://itgala.xyz/how-to-set-the-dscp-flag-in-windows-and-linux/),
-    3) [Using Linux to verify DSCP](http://conceptsfortheroad.com/2016/01/01/using-linux-to-verify-dscp/).
+1. [Управление QoS на платформе Windows](https://www.atraining.ru/qos-windows-nt/),
+2. [How to Set the DSCP Flag in Windows and Linux](https://itgala.xyz/how-to-set-the-dscp-flag-in-windows-and-linux/),
+3. [Using Linux to verify DSCP](http://conceptsfortheroad.com/2016/01/01/using-linux-to-verify-dscp/).
