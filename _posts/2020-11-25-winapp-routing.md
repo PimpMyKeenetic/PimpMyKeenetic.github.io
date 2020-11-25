@@ -42,7 +42,7 @@ opkg install iptables
 [ "$1" != "start" ] && exit 0
 
 ### Load additional module
-insmod /lib/modules/4.9-ndm-4/xt_dscp.ko
+insmod /lib/modules/$(uname -r)/xt_dscp.ko
 
 ### Create routing table for marked packets
 ip rule add fwmark 1 table 1001
