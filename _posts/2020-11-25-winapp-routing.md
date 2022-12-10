@@ -47,7 +47,7 @@ insmod /lib/modules/$(uname -r)/xt_dscp.ko
 ### Create routing table for marked packets
 ip rule add fwmark 1 table 1001
 
-exit0
+exit 0
 ```
 Второй, `/opt/etc/ndm/netfilter.d/100-fwmarks.sh`:
 ```
