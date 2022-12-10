@@ -73,7 +73,7 @@ if [ -z "$(ip route list table 1)" ]; then
     ip route add default dev ovpn_br0 table 1
 fi
 
-exit0
+exit 0
 ```
 Второй, `/opt/etc/ndm/netfilter.d/100-fwmarks.sh`:
 ```
