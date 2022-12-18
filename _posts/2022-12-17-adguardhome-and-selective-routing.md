@@ -1,8 +1,7 @@
-
 ---
+published: true
 layout: post
 title: AdGuard Home для выборочного обхода блокировок
-published: true
 ---
 
 В самом [алгоритме](https://keenetic-gi.ga/2018/01/16/selective-routing.html) нет ничего нового, но благодаря недавнему [обновлению](https://github.com/AdguardTeam/AdGuardHome/releases/tag/v0.107.13) AdGuard Home его можно реализовать довольно изящно: использование VPN для заданных вами доменов возможно тройкой коротких скриптов. 
