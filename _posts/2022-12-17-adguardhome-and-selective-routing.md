@@ -110,7 +110,7 @@ ip rule list | grep 1001
 ```
 ip route list table 1001
 ```
-* Посмотрите, существует ли правила netfilter для пометки пакетов:
+* Посмотрите, существуют ли правила netfilter для пометки пакетов:
 ```
 iptables-save | grep bypass
 ```
