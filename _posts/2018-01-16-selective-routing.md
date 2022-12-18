@@ -144,4 +144,6 @@ ip route list table 1
 default dev ovpn_br0 scope link
 ```
 
-Удачи в начинаниях!
+### Update 18/12/2022
+
+Из-за того, что fwmark теперь активно используется самой прошивкой решение больше не актуально. Вариант правильной маркироваки пакетов можно посмотреть [здесь](https://keenetic-gi.ga/2022/12/17/adguardhome-and-selective-routing.html).
